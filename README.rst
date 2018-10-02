@@ -14,7 +14,7 @@
 
 `coala <https://coala.io>`_ provides a unified interface for linting and fixing code with a single configuration file, regardless of the programming languages used. You can use coala from within your favorite editor, integrate it with your CI, get the results as JSON, or customize it to your needs with its flexible configuration syntax.
 
-coala supports popular programming languages including **Python**, **C/C++**, **Java**, **JavaScript**, **CSS**, and `several others <http://coala.io/#!/languages>`_ out of the box.
+coala supports popular programming languages including **Python**, **C/C++**, **Java**, **JavaScript**, **CSS** and `several others <http://coala.io/#!/languages>`_ out of the box.
 
 
 `Install coala <http://coala.io/#!/home#installation>`_ | `Get Involved <http://coala.io/#/getinvolved>`_ | `Chat <https://coala.io/chat>`_ | `Roadmap <https://projects.coala.io>`_ | `Blog <http://blog.coala.io>`_ | `Twitter <https://www.twitter.com/coala_io>`_
